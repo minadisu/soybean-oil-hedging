@@ -2,7 +2,7 @@
 
 Does the choice of futures contract change how much a hedge protects inventory on its worst days? Across 231 matched observations in 2024, the dominant-contract hedge had a 95% expected shortfall of **1.49% of inventory value**, compared with **2.43% for unhedged inventory**. A nearby-contract hedge reduced daily volatility slightly, while expected shortfall remained close to the unhedged level.
 
-[Full research report in Chinese (PDF)](reports/soybean-oil-hedging-zh.pdf) · [Annual estimates (CSV)](results/2024/risk_summary.csv)
+[Figures, methods and 2024 results](results/2024/README.md) · [Annual estimates (CSV)](results/2024/risk_summary.csv)
 
 | Inventory position | Daily volatility | 95% historical VaR | 95% historical ES |
 | --- | ---: | ---: | ---: |
